@@ -29,7 +29,7 @@ the branch `master`, and save your settings.
 > When you publish your site to GitHub pages, GitHub will display the URL
 > where you can find your published site. The primary repo we use to manage
 > changes to this lab across semesters is published
-> at <http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/>;
+> at <https://umm-csci-3601-s20.github.io/lab-1-html-and-css-joshandjack/>;
 > yours will be at a different URL but should look somewhat similar.
 >
 > :bangbang: Once you have that URL, please include it in the "Website" box in the
@@ -46,7 +46,7 @@ you can right click on the file, choose "Copy Path", and paste that into the bro
 
 Remove this line from your `README.md` file. Replace the URL in the next subsection with your
 team's GitHub.io URL, which should look something like
-this: <http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/> but will not be identical.
+this: <https://umm-csci-3601-s20.github.io/lab-1-html-and-css-joshandjack/> but will not be identical.
 
 ### Our Team's GitHub Pages URL
 
@@ -55,7 +55,7 @@ this: <http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/> but will not be ident
 > your team's repo on GitHub. You can remove this note when you've done these
 > things.
 
-<http://umm-csci-3601.github.io/3601-lab1_HTML-CSS/>
+<https://umm-csci-3601-s20.github.io/lab-1-html-and-css-joshandjack/>
 
 ### Version Control Reminder
 
