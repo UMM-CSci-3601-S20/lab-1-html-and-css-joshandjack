@@ -144,6 +144,12 @@ img.pic {
   padding: 25px;
 }
 
+.tools_title{
+  color:#7A0019;
+  text-align: center;
+  text-decoration: underline;
+}
+
 .tool-list {
   border-radius: 10px;
 
