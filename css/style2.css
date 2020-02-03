@@ -11,20 +11,21 @@ body{
     background-color: lightblue;
     background-image: url(../assets/images/pexels-photo-2054144.jpg);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom;
     /* display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center; */
 }
-/*
+
 @media screen and (min-width: 925px) {
   .pslo-courses-container {
+    padding-left: 200px;
     display: flex;
     flex-direction: row;
     max-width: 53em;
   }
-} */
+}
 
 .faculty-container {
 display: flex;
@@ -55,13 +56,22 @@ h2 {
 } */
 
 #courses {
-  background-color: #FFDE7A;
+  background-color: DarkCyan;
+  width: 500px;
+  height: auto;
+  border-radius: 25px;
+  border-width: medium;
+  border-style: ridge;
+  flex-direction: row;
   font-family: 'Marcellus', sans-serif;
   text-align: left;
   list-style: disc;
 }
 
 #pslo {
+  width:500px;
+  height: auto;
+  flex-direction: row;
   background-color: grey;
   border-color: black;
   font-family: 'Marcellus', sans-serif;
