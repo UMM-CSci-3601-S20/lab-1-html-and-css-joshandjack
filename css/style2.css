@@ -170,7 +170,7 @@ img.pic {
 
 /* Change the link background color to #000 (black) on hover */
 #style li a:hover {
-  background-color: #000;
+  background-color: skyblue;
 }
 
 #style {
@@ -185,6 +185,92 @@ img.pic {
 
 #validation {
 font-size: 80%;
-background-color: #d5d6d2;
+background-color: lightgrey;
 padding: 25px;
+border-style: solid;
+border-radius: 500px;
+border-width: auto;
+height: auto;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.card-text{
+  text-align: center;
+}
+
+.tool-list {
+  border-radius: 10px;
+  border: 5px double;
+  margin: 10px;
+  width: auto;
+}
+
+#rqstyle{
+  background-color: #FBEEC1
+}
+
+.tools_title{
+  color:rgb(33, 79, 105);
+  text-align: right;
+  text-decoration: underline;
+}
+
+#cc{
+  font-size: 12pt;
+  padding-right: 43px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  list-style-type: none;
+}
+
+#lc{
+  display: flex;
+  padding-right: 43px;
+  justify-content: left;
+  flex-direction: column;
+  text-align: center;
+  list-style-type: none;
+}
+
+
+
+.information-header{
+  font-size: 40pt;
+  color: rgb(33, 79, 105);
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+}
+
+.testing{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 12pt;
+}
+
+.ide{
+  font-family: fantasy;
+}
+
+a:hover{
+  background-color: floralwhite;
+}
+
+a:link{
+  color: rgb(33, 79, 105);
+}
+
+a:visited{
+  color: black;
+}
+
+.version-control{
+  font-size: 12pt;
+  font-style: italic;
+  font-family: cursive;
 }
